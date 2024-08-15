@@ -1,0 +1,11 @@
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaEN\bin\Debug\net8.0-windows\CapaEN.deps.json
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaEN\bin\Debug\net8.0-windows\CapaEN.dll
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaEN\bin\Debug\net8.0-windows\CapaEN.pdb
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaEN\obj\Debug\net8.0-windows\CapaEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaEN\obj\Debug\net8.0-windows\CapaEN.AssemblyInfoInputs.cache
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaEN\obj\Debug\net8.0-windows\CapaEN.AssemblyInfo.cs
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaEN\obj\Debug\net8.0-windows\CapaEN.csproj.CoreCompileInputs.cache
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaEN\obj\Debug\net8.0-windows\CapaEN.dll
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaEN\obj\Debug\net8.0-windows\refint\CapaEN.dll
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaEN\obj\Debug\net8.0-windows\CapaEN.pdb
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaEN\obj\Debug\net8.0-windows\ref\CapaEN.dll

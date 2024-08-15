@@ -1,0 +1,60 @@
+﻿<Window x:Class="Sys.ESFE.TiendaShop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Sys.ESFE.TiendaShop"
+        mc:Ignorable="d"
+        Title="Tienda Shop - Productos" Height="450" Width="800">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!-- Fila para el título -->
+            <RowDefinition Height="*"/>
+            <!-- Fila para el DataGrid -->
+            <RowDefinition Height="Auto"/>
+            <!-- Fila para el formulario y botones -->
+        </Grid.RowDefinitions>
+
+        <!-- Título -->
+        <TextBlock Text="Gestión de Productos" FontSize="20" FontWeight="Bold" 
+                   HorizontalAlignment="Center" Margin="0,10,0,20" Grid.Row="0"/>
+
+        <!-- Lista de Productos -->
+        <DataGrid x:Name="dgProductos" AutoGenerateColumns="False" Grid.Row="1" Margin="0,0,0,10"
+                   SelectionChanged="dgProductos_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="100"/>
+                <DataGridTextColumn Header="Nombre" Binding="{Binding Nombre}" Width="*"/>
+                <DataGridTextColumn Header="Precio Unitario" Binding="{Binding PrecioUnitario}" Width="150"/>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Formulario y Botones -->
+        <StackPanel Grid.Row="2" Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,20,0,10">
+            <!-- Formulario de ingreso de datos -->
+            <StackPanel Orientation="Vertical" Margin="0,0,10,0" Visibility="Visible">
+                <Label Content="Id"/>
+                <TextBox x:Name="txtId" Width="200" IsReadOnly="True"/>
+                <!-- Hacerlo solo lectura -->
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" Margin="0,0,10,0">
+                <Label Content="Nombre:"/>
+                <TextBox x:Name="txtNombre" Width="200"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical" Margin="0,0,10,0">
+                <Label Content="Precio Unitario:"/>
+                <TextBox x:Name="txtPrecioUnitario" Width="100"/>
+            </StackPanel>
+
+            <!-- Botones -->
+            <StackPanel Orientation="Vertical" VerticalAlignment="Center">
+                <Button Content="Agregar" Width="80" Margin="0,0,0,10" Click="Button_Click"/>
+                <Button Content="Editar" Width="80" Margin="0,0,0,10" Click="Button_Click_1"/>
+                <Button Content="Eliminar" Width="80" Margin="0,0,0,10" Click="Button_Click_2"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

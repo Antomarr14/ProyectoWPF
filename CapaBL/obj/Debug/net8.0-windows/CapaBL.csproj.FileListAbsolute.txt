@@ -1,0 +1,17 @@
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\obj\Debug\net8.0-windows\CapaBL.csproj.AssemblyReference.cache
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\obj\Debug\net8.0-windows\CapaBL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\obj\Debug\net8.0-windows\CapaBL.AssemblyInfoInputs.cache
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\obj\Debug\net8.0-windows\CapaBL.AssemblyInfo.cs
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\obj\Debug\net8.0-windows\CapaBL.csproj.CoreCompileInputs.cache
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\bin\Debug\net8.0-windows\CapaBL.deps.json
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\bin\Debug\net8.0-windows\CapaBL.dll
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\bin\Debug\net8.0-windows\CapaBL.pdb
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\bin\Debug\net8.0-windows\CapaDAL.dll
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\bin\Debug\net8.0-windows\CapaEN.dll
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\bin\Debug\net8.0-windows\CapaDAL.pdb
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\bin\Debug\net8.0-windows\CapaEN.pdb
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\obj\Debug\net8.0-windows\CapaBL.csproj.Up2Date
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\obj\Debug\net8.0-windows\CapaBL.dll
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\obj\Debug\net8.0-windows\refint\CapaBL.dll
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\obj\Debug\net8.0-windows\CapaBL.pdb
+C:\Users\Diego Marroquin\source\repos\Sys.ESFE.TiendaShop\CapaBL\obj\Debug\net8.0-windows\ref\CapaBL.dll
